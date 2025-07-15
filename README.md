@@ -1,4 +1,4 @@
-# 🚀 SmartQuant Pro – Real-Time ML Portfolio Optimizer & Risk Dashboard
+#  SmartQuant Pro – Real-Time ML Portfolio Optimizer & Risk Dashboard
 
 SmartQuant Pro is a **real-time, machine learning-powered portfolio optimization dashboard** designed to help investors allocate capital across assets intelligently while monitoring key risk metrics.
 
@@ -38,19 +38,8 @@ Built with 🐍 **Python**, 📈 **Streamlit**, and 🔬 **machine learning**, t
 ![Live Chart](screenshots/live_chart.gif)
 ![Portfolio Optimization](screenshots/portfolio_allocation.png)
 
-> 🔗 [Try the Live Dashboard on Streamlit Cloud](https://your-streamlit-app-link)
-
 ---
 
-## 💡 Use Case
-
-SmartQuant Pro is ideal for:
-- Students applying to **quant internships**
-- Data scientists exploring **finance applications**
-- Finance enthusiasts learning **risk-aware ML investing**
-- Resume + GitHub portfolio enhancement
-
----
 
 ## 🛠 Tech Stack
 
